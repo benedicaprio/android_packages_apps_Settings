@@ -156,6 +156,17 @@
     <string name="edit_hint">Value</string>
     <string name="seek_value_edit_label">Set value</string>
 
+    <!-- Display : Rotation -->
+    <string name="display_rotation_title">Auto Rotate Options</string>
+    <string name="display_rotation_summary">Configure screen auto-rotate functions</string>
+    <string name="display_rotation_disabled">Disabled</string>
+    <string name="display_rotation_unit">degrees</string>
+    <string name="display_rotation_category_title">Rotation modes</string>
+    <string name="display_rotation_0_title">0 degrees</string>
+    <string name="display_rotation_90_title">90 degrees</string>
+    <string name="display_rotation_180_title">180 degrees</string>
+    <string name="display_rotation_270_title">270 degrees</string>
+
     <!-- Statusbar net monitor -->
     <string name="net_monitor_category_title">Network traffic monitor</string>
     <string name="network_traffic_state_title">Show net activity in statusbar</string>
