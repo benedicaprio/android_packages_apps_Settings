@@ -175,4 +175,7 @@
     <string name="refresh_rate_summary_60">60Hz / Refresh rate locked at 60Hz for all content</string>
     <string name="refresh_rate_summary_90">90Hz / Refresh rate locked at 90Hz for all content. Increased battery usage</string>
     <string name="auto_refresh_rate">Dynamic</string>
+
+    <!-- Battery temperature -->
+    <string name="battery_temp">Battery temperature</string>
 </resources>
