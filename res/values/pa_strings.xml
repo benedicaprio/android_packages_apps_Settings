@@ -220,4 +220,14 @@
     <!-- Ambient Pulse on new tracks -->
     <string name="pulse_on_new_tracks_title">Ambient music ticker</string>
     <string name="pulse_on_new_tracks_summary">Show Ambient Display when a new music track is played</string>
+
+    <string name="themeroom_title">Theme Room</string>
+    <string name="themeroom_summary">Themes</string>
+
+    <!-- Themes -->
+    <string name="theme_type_title">System theme</string>
+    <string name="theme_type_summary">Select theme</string>
+    <string name="theme_type_light">Light</string>
+    <string name="theme_type_pitch_black">Pitch black</string>
+    <string name="theme_type_solarized_dark">Solarized dark</string>
 </resources>
