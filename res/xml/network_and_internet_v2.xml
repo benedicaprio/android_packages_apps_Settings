@@ -114,7 +114,7 @@
         <co.aospa.support.preferences.SystemSettingSwitchPreference
             android:key="network_traffic_state"
             android:title="@string/network_traffic_state_title"
-            android:defaultValue="true" />
+            android:defaultValue="false" />
 
         <co.aospa.support.preferences.CustomSystemSeekBarPreference
             android:key="network_traffic_autohide_threshold"
@@ -126,9 +126,9 @@
             settings:units="KB/s" />
 
         <co.aospa.support.preferences.SystemSettingSwitchPreference
-            android:key="network_traffic_arrow"
-            android:title="@string/network_traffic_arrow"
-            android:summary="@string/network_traffic_arrow_summary"
+            android:key="network_traffic_dynamic"
+            android:title="@string/network_traffic_dynamic"
+            android:summary="@string/network_traffic_dynamic_summary"
             android:dependency="network_traffic_state"
             android:defaultValue="true" />
     </PreferenceCategory>
