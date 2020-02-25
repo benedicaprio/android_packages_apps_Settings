@@ -19,7 +19,6 @@ package com.android.settings.fuelgauge;
 import static com.android.settings.fuelgauge.BatteryBroadcastReceiver.BatteryUpdateType;
 
 import android.app.settings.SettingsEnums;
-import android.content.ContentResolver;
 import android.app.AlertDialog;
 import android.content.Context;
 import android.content.DialogInterface;

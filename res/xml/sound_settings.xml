@@ -88,7 +88,7 @@
         settings:controller="com.android.settings.notification.NotificationVolumePreferenceController"/>
 
     <!-- Link ringtone and notification volumes -->
-    <com.aospa.support.preference.SecureSettingSwitchPreference
+    <co.aospa.support.preferences.SecureSettingSwitchPreference
         android:key="volume_link_notification"
         android:title="@string/volume_link_notification_title"
         android:defaultValue="true"

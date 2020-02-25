@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.aospa.support.preference;
+package co.aospa.support.preferences;
 
 import android.content.ContentResolver;
 import android.preference.PreferenceDataStore;

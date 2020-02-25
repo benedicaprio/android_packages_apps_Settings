@@ -111,11 +111,12 @@
         android:key="net_monitor_category"
         android:title="@string/net_monitor_category_title"
         android:order="25" >
-	<com.aospa.support.preference.SystemSettingSwitchPreference
+        <co.aospa.support.preferences.SystemSettingSwitchPreference
             android:key="network_traffic_state"
             android:title="@string/network_traffic_state_title"
             android:defaultValue="true" />
-        <com.aospa.support.preference.CustomSystemSeekBarPreference
+
+        <co.aospa.support.preferences.CustomSystemSeekBarPreference
             android:key="network_traffic_autohide_threshold"
             android:title="@string/network_traffic_autohide_threshold_title"
             android:max="10"
@@ -123,12 +124,12 @@
             android:defaultValue="1"
             android:dependency="network_traffic_state"
             settings:units="KB/s" />
-        <com.aospa.support.preference.SystemSettingSwitchPreference
+
+        <co.aospa.support.preferences.SystemSettingSwitchPreference
             android:key="network_traffic_arrow"
             android:title="@string/network_traffic_arrow"
             android:summary="@string/network_traffic_arrow_summary"
             android:dependency="network_traffic_state"
             android:defaultValue="true" />
     </PreferenceCategory>
-
 </PreferenceScreen>
