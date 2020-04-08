@@ -234,6 +234,7 @@
     <string name="theme_type_choco_x">Choco X</string>
     <string name="theme_type_du_pitchblack">Pitch Black</string>
     <string name="theme_type_dark_grey">Dark Grey</string>
+    <string name="theme_type_material_ocean">Material Ocean</string>
 
     <!-- Rgb Accenter -->
     <string name="rgb_accenter_title">RGB Accenter</string>
