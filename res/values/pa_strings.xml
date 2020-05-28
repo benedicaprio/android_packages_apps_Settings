@@ -224,6 +224,12 @@
     <string name="themeroom_title">Theme Room</string>
     <string name="themeroom_summary">Themes</string>
 
+    <!-- Themes customisation -->
+    <string name="theme_customization_systemui_title">Color bucket</string>
+    <string name="theme_customization_accent_color_title">Accent color</string>
+    <string name="theme_customization_font_title">Headline / Body font</string>
+    <string name="theme_customization_icon_shape_title">Icon shape</string>
+
     <!-- Themes -->
     <string name="theme_type_title">System theme</string>
     <string name="theme_type_summary">Select theme</string>
